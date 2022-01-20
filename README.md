@@ -2,11 +2,10 @@
 <br>
 <br>
 <img align="right" alt="Henry-HTML" height="204" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
-Me dedico diariamente ao desenvolvimento front-end 
-<br> desenvolvendo aplicações webs.
-
-No momento, estou aprendendo:
+Me dedico diariamente ao desenvolvimento front-end desenvolvendo aplicações webs.
 <br>
+<br>
+No momento, estou aprendendo:
 <br>
 <ul>
   <li> JavaScript
