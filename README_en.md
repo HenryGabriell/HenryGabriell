@@ -3,7 +3,8 @@
 <br>
 <img align="right" alt="Henry-HTML" height="204" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
 I dedicate myself daily to front-end development developing web applications.
-
+<br>
+<br>
 I’m currently learning:
 <br>
 <ul>
