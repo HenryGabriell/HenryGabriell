@@ -1,11 +1,10 @@
-### <p align='center'> Oi, eu sou o Henry 2 </p>
+### <p align='center'> Hi, I'm Henry! </p>
 <br>
 <br>
 <img align="right" alt="Henry-HTML" height="204" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
-Me dedico diariamente ao desenvolvimento front-end desenvolvendo aplicações webs.
+I dedicate myself daily to front-end development developing web applications.
 
-No momento, estou aprendendo:
-<br>
+I’m currently learning:
 <br>
 <ul>
   <li> JavaScript
@@ -14,7 +13,7 @@ No momento, estou aprendendo:
 <br>
 <br>
 
-### <p> Minhas tecnologias </p>
+### <p> My Tech Stack </p>
 <!--<table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
@@ -31,7 +30,7 @@ No momento, estou aprendendo:
   <br>
   <br>
   <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
+  <summary><b>:brain: &nbsp; Other knowledge, always learning</b></summary>
   <br/>
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)&nbsp;
@@ -52,7 +51,7 @@ No momento, estou aprendendo:
 </details>
 <br>
   <details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
       <img align='left' height="127px" src="https://github-readme-stats.vercel.app/api?username=HenryGabriell&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
