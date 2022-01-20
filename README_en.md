@@ -14,10 +14,10 @@ I’m currently learning:
 <br>
 
 ### <p> My Tech Stack </p>
-<!--<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table> -->
+<table align="right">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_pt.md">Português</a></td></tr>
+</table> 
   <img align="left" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
