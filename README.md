@@ -1,8 +1,9 @@
 ### <p align='center'> Oi, eu sou o Henry </p>
 <br>
 <br>
-<img align="right" alt="Henry-HTML" height="204" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
-Me dedico diariamente ao desenvolvimento front-end desenvolvendo aplicações webs.
+<img align="right" alt="Henry-HTML" height="160" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
+Me dedico diariamente ao desenvolvimento front-end
+<br> desenvolvendo aplicações webs.
 <br>
 <br>
 No momento, estou aprendendo:
@@ -28,7 +29,7 @@ No momento, estou aprendendo:
   <br>
   <br>
   <br>
-  <img align="right" height="210" src="https://user-images.githubusercontent.com/96191361/150234908-7ec7b74d-47df-4bd2-b349-ca9f51052f99.gif">
+  <img align="right" height="220" src="https://user-images.githubusercontent.com/96191361/150234908-7ec7b74d-47df-4bd2-b349-ca9f51052f99.gif">
   <br>
   <br>
   <details>
