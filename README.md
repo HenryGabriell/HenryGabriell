@@ -6,6 +6,8 @@ Me dedico diariamente ao desenvolvimento front-end
 <br> desenvolvendo aplicações webs.
 <br>
 <br>
+<br>
+<br>
 No momento, estou aprendendo:
 <br>
 <ul>
