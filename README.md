@@ -58,8 +58,8 @@ No momento, estou aprendendo:
   <details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
-    <p align="center">
+    <div align="center">
       <img align='left' height="127px" src="https://github-readme-stats.vercel.app/api?username=HenryGabriell&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
-      <img align='left' height="108px" src="https://github-readme-stats.vercel.app/ap/top-langs/?username=HenryGabriell&layout=compact&langs_count=7&theme=tokyonight&hide_title=true&hide_border=true"/>
-    </p>
+      <img align='left' height="108px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGabriell&layout=compact&langs_count=7&theme=tokyonight&hide_title=true&hide_border=true"/>
+    </div>
 </details>
