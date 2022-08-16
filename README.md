@@ -8,11 +8,11 @@ Me dedico diariamente ao desenvolvimento front-end
 <br>
 <br>
 <br>
-No momento, estou aprendendo:
+No momento, estou aprendendo mais:
 <br>
 <ul>
-  <li> JavaScript
-  <li> Git
+  <li> JavaScript </li>
+  
 <ul>
 <br>
 <br>  
