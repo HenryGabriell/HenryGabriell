@@ -8,8 +8,7 @@ I dedicate myself daily to front-end development developing web applications.
 I’m currently learning:
 <br>
 <ul>
-  <li> JavaScript
-  <li> Git
+  <li> JavaScript</li>
 <ul>
 <br>
 <br>
