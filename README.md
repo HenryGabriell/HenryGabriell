@@ -1,4 +1,4 @@
-### <p align='center'> Oi, eu sou o Henry </p>
+### <p align='center'> Hey, eu sou o Henry </p>
 <br>
 <br>
 <img align="right" alt="Henry-HTML" height="160" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
