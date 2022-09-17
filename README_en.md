@@ -33,21 +33,20 @@ I’m currently learning:
   <img align="right" height="210" src="https://user-images.githubusercontent.com/96191361/150234908-7ec7b74d-47df-4bd2-b349-ca9f51052f99.gif">
   <br>
   <br>
-  <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+
+<details>
+<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="left">
-      <img align='left' height="127px" src="https://github-readme-stats.vercel.app/api?username=HenryGabriell&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
-      <img align='left' height="108px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGabriell&layout=compact&langs_count=7&theme=tokyonight&hide_title=true&hide_border=true"/>
-    </p>
-</details>    
-  <br>
+    <div align="left">
+      <img height="127px" src="https://github-readme-stats.vercel.app/api?username=HenryGabriell&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /> 
+      <img height="108px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGabriell&layout=compact&langs_count=7&theme=tokyonight&hide_title=true&hide_border=true"/>
+    </div>
+</details>
   <br>
   <details>
-  <summary><b>:brain: &nbsp; Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
-    
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)&nbsp;
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)&nbsp;
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)&nbsp; \
@@ -62,7 +61,6 @@ I’m currently learning:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;
 ![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg) &nbsp;
 
-    
-    
-</details>
 
+
+</details>  
