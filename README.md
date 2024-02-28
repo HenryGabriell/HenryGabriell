@@ -2,7 +2,7 @@
 <br>
 <br>
 <img align="right" alt="Henry-HTML" height="160" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
-Estou cursando análise e desenvolvimento de sistemas. Me dedico diariamente 
+Estou cursando análise e desenvolvimento de sistemas. Me dedico 
 <br>ao desenvolvimento front-end desenvolvendo aplicações webs.
 <br>
 <br>
@@ -26,6 +26,15 @@ No momento, estou aprendendo mais sobre:
   <img align="left" alt="Henry-HTML" height="40" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="left" alt="Henry-CSS" height="40" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="left" alt="Henry-Js" height="40" width="140" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <br>
+  <br>
+  <br>
+  <img align="left" alt="Henry-NODE" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="left" alt="Henry-Phyton" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="Henry-React" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+
+
   <br>
   <br>
   <br>
