@@ -28,6 +28,12 @@ I’m currently learning:
   <br>
   <br>
   <br>
+  <img align="left" alt="Henry-NODE" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="left" alt="Henry-Phyton" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="Henry-React" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <img align="right" height="210" src="https://user-images.githubusercontent.com/96191361/150234908-7ec7b74d-47df-4bd2-b349-ca9f51052f99.gif">
