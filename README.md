@@ -11,23 +11,25 @@ No momento, estou aprendendo mais sobre:
 <ul>
   <li> Bootstrap </li>
   <li> PHP </li>
-  
 <ul>
 
 <br>  
-  
-## <p> Minhas tecnologias </p>
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
+<br>
+<br>
+<br>
+
+### <p> Minhas tecnologias </p>
+
+<div>
   <img align="left" alt="Henry-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="left" alt="Henry-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="left" alt="Henry-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="left" alt="Henry-btsp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-
- 
   <br>
   <br>
   <br>
@@ -35,9 +37,7 @@ No momento, estou aprendendo mais sobre:
   <img align="left" alt="Henry-Phyton" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-  
-  <br>
+</div>
   <br>
   <br>
   <br>
