@@ -1,8 +1,8 @@
 ### <p align='center'> Hey, eu sou o Henry </p>
 <br>
 <br>
-<img align="right" alt="Henry-HTML" height="160" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif">
-<p>Me dedico ao desenvolvimento front-end desenvolvendo aplicações webs.</p>
+<div><img align="right" alt="Henry-HTML" height="140" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif"></div>
+<div><p>Me dedico ao desenvolvimento front-end desenvolvendo aplicações webs.</p></div>
 <br>
 <br>
 <br>
@@ -12,8 +12,7 @@ No momento, estou aprendendo mais sobre:
   <li> Bootstrap </li>
   <li> PHP </li>
 <ul>
-
-<br>  
+<br>
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
@@ -38,8 +37,6 @@ No momento, estou aprendendo mais sobre:
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-  <br>
-  <br>
   <br>
   <br>
   <br>
