@@ -2,14 +2,14 @@
 <br>
 <br>
 <div><img align="right" alt="Henry-HTML" height="140" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif"></div>
-<div><p>Me dedico ao desenvolvimento front-end desenvolvendo aplicações webs.</p></div>
+<div><p>Full Stack Developer, com base sólida em front-end e se aventurando em Cibersegurança</p></div>
 <br>
 <br>
 <br>
 No momento, estou aprendendo mais sobre:
 <br>
 <ul>
-  <li> Bootstrap </li>
+  <li> Redes </li>
   <li> PHP </li>
 <ul>
 <br>
