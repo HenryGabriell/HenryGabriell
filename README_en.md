@@ -2,15 +2,15 @@
 <br>
 <br>
 <div><img align="right" alt="Henry-HTML" height="140" src="https://user-images.githubusercontent.com/96191361/150234577-be3d3e67-6327-460f-a17e-c98e14351022.gif"></div>
-<div><p>Full Stack Developer, with a solid foundation in front-end and venturing into Cybersecurity</p></div>
+<div><p>Computer Networks, with a solid foundation in front-end development!</p></div>
 <br>
 <br>
 <br>
 I am currently learning more about:
 <br>
 <ul>
-  <li> Network </li>
-  <li> PHP </li>
+  <li> OSI </li>
+  <li> Subnet calculation </li>
 <ul>
 <br>
 <table align="right">
@@ -32,9 +32,9 @@ I am currently learning more about:
   <br>
   <br>
   <br>
-  <img align="left" alt="Henry-NODE" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+ 
   <img align="left" alt="Henry-Phyton" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
   <img align="left" alt="Henry-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   <br>
